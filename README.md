@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jitender, a Backend Developer 👨‍💻 from India with 3+ years of experience in Python and Django.
+### <div align="center">Hi 👋, I'm [Jitender](https://www.linkedin.com/in/techjeet), a Backend Developer 👨‍💻 from [IN](https://en.wikipedia.org/wiki/India) with 3+ years of experience in Python and Django.
 Additionally, I have experience with DevOps tools such as Kubernetes, Jenkins, and Docker.
 I am passionate about using technology to solve problems and improve the user experience.</div>  
   
@@ -78,13 +78,13 @@ I am passionate about using technology to solve problems and improve the user ex
 <a href="https://twitter.com/imjkr" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/techjeet" target="_blank">
+<a href="https://www.linkedin.com/in/techjeet" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/sid__soul_" target="_blank">
+<a href="https://www.instagram.com/sid_soul_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/iamjkr" target="_blank">
+<a href="https://medium.com/@iamjkr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
