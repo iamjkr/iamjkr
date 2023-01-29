@@ -97,6 +97,14 @@ I am passionate about using technology to solve problems and improve the user ex
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjkr&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamjkr&&theme=xcode)](https://github.com/iamjkr)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjkr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iamjkr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamjkr&show_icons=true&locale=en&theme=tokyonight" alt="iamjkr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjkr&&theme=tokyonight" alt="iamjkr" /></p>
+
 
 
 ## Recent Blog Posts  
