@@ -94,7 +94,7 @@ I am passionate about using technology to solve problems and improve the user ex
 
 
 ## Jeet's GitHub activity graph  
-(https://activity-graph.herokuapp.com/graph?username=iamjkr&&theme=xcode)](https://github.com/iamjkr)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjkr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iamjkr" /></p>
 
