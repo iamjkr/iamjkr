@@ -1,7 +1,5 @@
 <div align="center">
-I'm Jitender, a Backend Developer 👨‍💻 from India with 3+ years of experience in Python and Django.
-Additionally, I have experience with DevOps tools such as Kubernetes, Jenkins, and Docker.
-I am passionate about using technology to solve problems and improve the user experience.
+
 </div>  
   
 
