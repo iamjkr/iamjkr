@@ -9,7 +9,7 @@
 I am also well-versed in DevOps tools such as Kubernetes, Jenkins, and Docker. I am passionate about utilizing technology to effectively solve problems and enhance the user experience.</div>  
   
 
-- 🔭 I’m currently working on [5G](https://)  
+- 🔭 I’m currently working on [5G Technology](https://)  
   
 
 - 🌱 I’m currently learning Go language  
