@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center"><h3>Hi 👋, I'm [Jitender](https://www.linkedin.com/in/techjeet), a Backend Developer 👨‍💻</h3><br>from [IN](https://en.wikipedia.org/wiki/India) with 3+ years of experience in using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/).
+### <div align="center"><h4>Hi 👋, I'm [Jitender](https://www.linkedin.com/in/techjeet), I am Jitender Kumar, a Backend Developer with 3+ years of experience in the field. I specialize in using Python and Django to create robust and scalable solutions for clients. As a dedicated professional, I am constantly working to enhance my skills and deliver exceptional resultsa Backend Developer 👨‍💻</h4><br>from [IN](https://en.wikipedia.org/wiki/India) with 3+ years of experience in using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/).
 I am also well-versed in DevOps tools such as Kubernetes, Jenkins, and Docker. I am passionate about utilizing technology to effectively solve problems and enhance the user experience.</div>  
   
 
