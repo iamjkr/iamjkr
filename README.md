@@ -79,7 +79,7 @@ I am also well-versed in DevOps tools such as Kubernetes, Jenkins, and Docker. I
 <a href="https://twitter.com/imjkr" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/techjeet" target="_blank">
+<a href="https://www.linkedin.com/in/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/sid_soul_/" target="_blank">
